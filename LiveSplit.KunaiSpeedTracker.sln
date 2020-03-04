@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveSplit.KunaiSpeedTracker", "LiveSplit.KunaiSpeedTracker.csproj", "{3DE67B3C-FE9E-49E3-AE06-E13703F2BEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DE67B3C-FE9E-49E3-AE06-E13703F2BEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE67B3C-FE9E-49E3-AE06-E13703F2BEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE67B3C-FE9E-49E3-AE06-E13703F2BEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE67B3C-FE9E-49E3-AE06-E13703F2BEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22DD6848-9C49-412E-BBED-7C503C3B2819}
+	EndGlobalSection
+EndGlobal

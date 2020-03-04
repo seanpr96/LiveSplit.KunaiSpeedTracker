@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<updates>
+  <update version="0.0.2">
+    <files>
+      <file path="Components/LiveSplit.KunaiSpeedTracker.dll" status="changed"/>
+    </files>
+    <changelog>
+      <change>
+        Changed all values to average of last second
+      </change>
+    </changelog>
+  </update>
+  <update version="0.0.1">
+    <files>
+      <file path="Components/LiveSplit.KunaiSpeedTracker.dll" status="changed"/>
+    </files>
+    <changelog>
+      <change>
+        Initial version.
+      </change>
+    </changelog>
+  </update>
+</updates>
